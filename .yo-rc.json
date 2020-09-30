@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "io.snyk.bmvermeer.jhipsnyk"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "microservice",
+    "baseName": "test2",
+    "packageName": "io.snyk.bmvermeer.jhipsnyk",
+    "packageFolder": "io/snyk/bmvermeer/jhipsnyk",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODIzZGY5MDFmODcxNzZjYjY4ZTU3ODAwOTk3ZmI4NTlhZTc1NDM0OGE3YjZhNzQ5ZDk1NTIxOTFlNGNiYmFlNTNlNjlmZDY5ZGNlMzQwMGQ4NDBiODk2YjUwYzI3YThlMjliNTEzZmNiN2NmNjUwYjRiOTFjZTI4NGI2MmEyOTU=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1601472095072,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
